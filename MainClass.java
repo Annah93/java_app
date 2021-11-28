@@ -75,6 +75,5 @@ public class MainClass{
 	if(hourDay < 11) 
  	   System.out.println("Good Morning");
            morningGreetCount++;
-
 }	
 }
